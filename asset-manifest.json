@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.ae5fcc30.css",
+    "main.js": "/shopping-cart/static/js/main.6acf827b.js",
+    "static/media/foam-roller.jpeg": "/shopping-cart/static/media/foam-roller.d3c342a78373b0683506.jpeg",
+    "static/media/vessi.jpeg": "/shopping-cart/static/media/vessi.663d04e1bd91168b60eb.jpeg",
+    "index.html": "/shopping-cart/index.html",
+    "main.ae5fcc30.css.map": "/shopping-cart/static/css/main.ae5fcc30.css.map",
+    "main.6acf827b.js.map": "/shopping-cart/static/js/main.6acf827b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae5fcc30.css",
+    "static/js/main.6acf827b.js"
+  ]
+}
